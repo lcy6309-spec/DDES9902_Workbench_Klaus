@@ -343,7 +343,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7457159944530478014, guid: e6333e629ba3a9e41b09e24be44ecbbc, type: 3}
       propertyPath: m_Name
-      value: Office
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 7457159944722595338, guid: e6333e629ba3a9e41b09e24be44ecbbc, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
