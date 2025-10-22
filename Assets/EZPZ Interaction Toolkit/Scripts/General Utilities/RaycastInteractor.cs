@@ -393,10 +393,10 @@ public class RaycastInteractor : MonoBehaviour
                 subjectRbody.useGravity = true;
                 subjectRbody.isKinematic = false;
 
-                if (moveSubject.throwForce > 0)
+                //if (moveSubject.throwStrength > 0)
                 {
-                    Vector3 direction = moveSubject.transform.position - rayPointer.position;
-                    subjectRbody.AddForce(moveSubject.throwForce * direction * 100);
+                    //Vector3 direction = moveSubject.transform.position - rayPointer.position;
+                    //subjectRbody.AddForce(moveSubject.throwForce * direction * 100);
                 }
             }
 
