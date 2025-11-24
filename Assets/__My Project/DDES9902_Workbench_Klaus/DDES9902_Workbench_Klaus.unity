@@ -19116,17 +19116,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Goal
       objectReference: {fileID: 0}
+    - target: {fileID: 8150887036179480923, guid: f78ba405b0781dd41abf8ccacede354d, type: 3}
+      propertyPath: m_text
+      value: Put the adobe in.
+      objectReference: {fileID: 0}
     - target: {fileID: 8773878638445705507, guid: f78ba405b0781dd41abf8ccacede354d, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.5000001
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8773878638445705507, guid: f78ba405b0781dd41abf8ccacede354d, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.5
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8773878638445705507, guid: f78ba405b0781dd41abf8ccacede354d, type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.5000001
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8773878638445705507, guid: f78ba405b0781dd41abf8ccacede354d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19134,11 +19138,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8773878638445705507, guid: f78ba405b0781dd41abf8ccacede354d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.74
+      value: -3.686
       objectReference: {fileID: 0}
     - target: {fileID: 8773878638445705507, guid: f78ba405b0781dd41abf8ccacede354d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.1576896
+      value: -2.314
       objectReference: {fileID: 0}
     - target: {fileID: 8773878638445705507, guid: f78ba405b0781dd41abf8ccacede354d, type: 3}
       propertyPath: m_LocalRotation.w
@@ -24305,7 +24309,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1875634836
 MonoBehaviour:
   m_ObjectHideFlags: 0
